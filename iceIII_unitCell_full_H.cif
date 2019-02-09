@@ -1,0 +1,46 @@
+data_global
+
+loop_
+_publ_author_name
+'Kamb, B.'
+'Prakash, A.'
+
+_publ_section_title
+; Structure of ice-III
+;
+
+_chemical_name_mineral 'Ice III'
+_chemical_formula_structural 'H2 O'
+
+_publ_section_references
+; B. Kamb and A. Prakash, Structure of ice III, Acta Crystallographica B, 24 (1968) 1317-1327.
+;
+
+_chemical_name 'Ice III'
+
+# CRYSTAL DATA
+
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'P 41 21 2'
+
+_cell_length_a 6.730
+_cell_length_b 6.730
+_cell_length_c 6.830
+
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+
+# ATOMIC COORDINATES FOR ICE III
+# Full-hydrogen model D
+
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O 0.1096 0.3016 0.2873
+O 0.3932 0.3932 0.0000
+H -0.003 0.3220 0.2150
+H 0.1070 0.1620 0.2880
+H 0.2960 0.3540 0.0950
